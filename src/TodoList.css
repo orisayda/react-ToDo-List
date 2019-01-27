@@ -1,0 +1,23 @@
+.todoListMain {
+    margin: 30px;
+    
+}
+
+.toDoForm {
+    margin: 20px;
+}
+
+.inputText {
+    width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.btnToDo {
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #000;
+}
